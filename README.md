@@ -1,2 +1,2 @@
 # notebook-final-analia-ale
-Este notebook es el mejorado para el submit final para Kaggle. Se corrieron un total de 9 semillas (206262, 858956, 958864, 556088, 900977, 120539, 230431, 501317, 761227).
+Este notebook es el mejorado para el submit final para Kaggle. Se corrieron un total de 9 semillas (206262, 858956, 958864, 556088, 900977, 120539, 230431, 501317, 761227). Este notebook representa un trabajo final de la asignatura Lab. de Implementación I de la maestría en Ciencia de Datos de la Universidad Austral (cohorte 2025, modalidad virtual). Alumna: Analía Ale.
